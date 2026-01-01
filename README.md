@@ -139,13 +139,13 @@ The model successfully classified lead potential and provided a confidence score
 ---
 
 ## 📁 Repository Structure
-
+```
 ├── Sales_Effectiveness_PRCL_0019.ipynb   # Jupyter Notebook (EDA + ML pipeline)
 ├── lead_potential_model.pkl              # Trained Random Forest model
 ├── requirements.txt                      # Required Python libraries
 ├── .gitignore                            # Git ignore rules (env, cache files)
 └── README.md                             # Project documentation
-
+```
 
 ---
 
