@@ -157,3 +157,17 @@ Sensitive files are excluded from version control using `.gitignore`.
 
 ## 📌 Conclusion
 This project demonstrates a complete, evaluation-safe machine learning pipeline for sales effectiveness analysis and lead potential prediction. The approach balances analytical rigor with practical business applicability and follows industry best practices.
+---
+### 📬 Contact Me
+
+If you have any questions, suggestions, or feedback regarding this project, feel free to reach out through the channels below:
+
+## 👤 Author
+
+**Athuldev**  
+Machine Learning | Data Science | Data Analytics
+
+**📧 Email:** athuldevkoroth@gmail.com  
+**🔗 GitHub:** https://github.com/athuldevkoroth  
+**💼 LinkedIn:** https://www.linkedin.com/in/athuldev-k  
+
