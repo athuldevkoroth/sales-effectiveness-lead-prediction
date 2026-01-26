@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-green?logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+
 # Sales Effectiveness – Lead Potential Prediction (PRCL-0019)
 
 ## 📌 Project Overview
